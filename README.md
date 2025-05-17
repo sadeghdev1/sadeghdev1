@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Sadegh Movahed
+A Front-End Developer skilled in Html, Css and JavaScript.
 
-<!--
-**SadeghM8/SadeghM8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graphic student  
+💻 Passionate about: HTML | CSS | JavaScript
+🛠️ Currently learning: Vue.js | Nuxt.js  
+🏋️‍♂️ Bodybuilder & Coder!
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadeghM8&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+![Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nuxtjs,vuejs,git,github,figma)
+
+## 🌐 Connect with Me
+- 📧 Email: sadeqmail136@email.com   
+- 💼 LinkedIn: [linkedin.com/in/sadeq-movahed1](https://linkedin.com/in/sadeq-movahed1)
+
+---
+
+> Always learning, always building 🚀
