@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Sadegh Movahed
-A Front-End Developer skilled in Html, Css and JavaScript.
+A Passionate Front-End Developer skilled in Html, Css and JavaScript.
 
 🎓 Graphic student  
 💻 Passionate about: HTML | CSS | JavaScript
+
 🛠️ Currently learning: Vue.js | Nuxt.js | Figma
+
 🏋️‍♂️ Bodybuilder & Coder!
 
 ## 📈 GitHub Stats
