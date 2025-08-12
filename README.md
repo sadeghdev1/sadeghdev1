@@ -13,7 +13,7 @@ A Passionate Front-End Developer skilled in Html, Css and JavaScript.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadeghM8&show_icons=true&theme=radical)
 
 ## 🧰 Tech Stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,react-bootstrap,git,github,python)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,git,github,python)
 
 ## 🌐 Connect with Me
 - 📧 Email: sadeqmail136@email.com   
