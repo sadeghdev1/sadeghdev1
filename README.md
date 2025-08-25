@@ -10,7 +10,7 @@ A Passionate Front-End Developer skilled in Html, Css and JavaScript.
 🏋️‍♂️ Bodybuilder & Coder!
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadeghM8&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadeghdev1&show_icons=true&theme=radical)
 
 ## 🧰 Tech Stack
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,git,github,python)
