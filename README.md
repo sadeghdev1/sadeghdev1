@@ -17,7 +17,7 @@ A Passionate Front-End Developer skilled in Html, Css and JavaScript.
 
 ## 🌐 Connect with Me
 - 📧 Email: sadeqmail136@email.com   
-- 💼 LinkedIn: [linkedin.com/in/sadeq-movahed1](https://linkedin.com/in/sadeq-movahed1)
+- 💼 LinkedIn: [linkedin.com/in/sadeq-movahed1](https://linkedin.com/in/sadeghdev1)
 
 ---
 
