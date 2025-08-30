@@ -16,8 +16,8 @@ A Passionate Front-End Developer skilled in Html, Css and JavaScript.
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,git,github,python)
 
 ## 🌐 Connect with Me
-- 📧 Email: sadeqmail136@email.com   
-- 💼 LinkedIn: [linkedin.com/in/sadeq-movahed1](https://linkedin.com/in/sadeghdev1)
+- 📧 Email: sadeghdev1@gmail.com   
+- 💼 LinkedIn: [linkedin.com/in/sadeghdev1](https://linkedin.com/in/sadeghdev1)
 
 ---
 
