@@ -5,7 +5,7 @@ A Passionate Front-End Developer skilled in Html, Css and JavaScript.
 
 💻 Passionate about: HTML | CSS | JavaScript
 
-🛠️ Currently learning: React.js | Vue.js | Nuxt.js | Figma
+🛠️ Currently learning: React.js | Next.js | TypeScript | Figma
 
 🏋️‍♂️ Bodybuilder & Coder!
 
