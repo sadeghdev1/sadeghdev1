@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Sadegh Movahed
-A Passionate Front-End Developer skilled in HTML5, CSS3 and JavaScript(ES6+).
+A Passionate Front-End Developer skilled in HTML5, CSS3 and JavaScript (ES6+).
 
 🎓 Graphic student
 
