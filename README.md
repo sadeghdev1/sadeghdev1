@@ -14,6 +14,10 @@ A Passionate Front-End Developer skilled in HTML5, CSS3 and JavaScript (ES6+).
 
 ## 🧰 Tech Stack
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,scss,mui)
+## 🔧 Tools
+![Skills](https://skillicons.dev/icons?i=vscode,git,github,vite)
+## 🧰 Familiar with
+![Skills](https://skillicons.dev/icons?i=next,typescript)
 
 ## 🌐 Connect with Me
 - 📧 Email: sadeghdev1@gmail.com   
