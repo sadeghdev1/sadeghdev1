@@ -16,7 +16,7 @@ A Passionate Front-End Developer skilled in HTML5, CSS3 and JavaScript (ES6+).
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,axios,bootstrap,scss,mui)
 ## 🔧 Tools
 ![Skills](https://skillicons.dev/icons?i=vscode,git,github,vite)
-## 🧰 Familiar with
+## 👀 Familiar with
 ![Skills](https://skillicons.dev/icons?i=next,typescript)
 
 ## 🌐 Connect with Me
