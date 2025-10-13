@@ -13,7 +13,7 @@ A Passionate Front-End Developer skilled in HTML5, CSS3 and JavaScript (ES6+).
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadeghdev1&show_icons=true&theme=radical)
 
 ## 🧰 Tech Stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,ReactHookForm,jquery,bootstrap,scss,mui)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,axios,bootstrap,scss,mui)
 ## 🔧 Tools
 ![Skills](https://skillicons.dev/icons?i=vscode,git,github,vite)
 ## 🧰 Familiar with
